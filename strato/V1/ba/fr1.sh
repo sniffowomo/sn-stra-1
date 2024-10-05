@@ -10,11 +10,13 @@ f1() {
 
     # settings
     fi="ban1.txt"
+    la="javascript"
 
     # Actual command
     for theme in $TH; do
         freeze "$fi" \
             -t $theme \
+            -l $la \
             -o pix/s1$theme.png
     done
 }
