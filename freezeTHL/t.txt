@@ -48,3 +48,14 @@ rose-pine-dawn
 rose-pine-moon
 rrt
 solarized-dark
+solarized-dark256
+solarized-light
+swapoff
+tango
+trac
+vim
+vs
+vulcan
+witchhazel
+xcode
+xcode-dark
