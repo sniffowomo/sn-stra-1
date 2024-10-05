@@ -14,8 +14,8 @@ f1() {
     # Actual command
     for theme in $TH; do
         freeze "$fi" \
-            -t $TH \
-            -o f1$theme.png \
+            -t $theme \
+            -o pix/f1$theme.png \
             --show-line-numbers \
             --window
     done
