@@ -1,0 +1,13 @@
+sssssssss,,rr,,,,rr,,sssssssss
+ssssss,,a,aaa,,,,aaa,a,,ssssss
+ssssra,a,rr,,,,,,,,rr,aaar,sss
+ssta,arr,tttttttttttt,rr,,atss
+sta,,rrttttttttttttttttrr,,,ts
+s,,arrttttttttttttttttttrr,,,s
+sa,,rrtttttttttttttttttt,r,,,s
+s,,arrttttttttttttttttttrr,,,s
+sta,,rrttttttttttttttttrr,,ats
+ss,a,arr,,ttttttttttt,rra,atss
+ssssra,a,rrr,,,,,,rrr,a,arssss
+ssssss,,a,aaaa,,aaaa,a,,ssssss
+sssssssssst,rrrrrrrtssssssssss
