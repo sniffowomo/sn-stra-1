@@ -16,7 +16,7 @@ sudo apt install libwebkit2gtk-4.0-dev libgtk-3-dev libappindicator3-dev -y
 sudo apt-get install fish -y
 
 # Cargo Installs
-cargo install eza fd-find starship ripgrep cfonts artem
+cargo install eza fd-find starship ripgrep cfonts artem lolcrab
 
 # Starship init and preset
 echo "starship init fish | source" >~/.config/fish/config.fish
